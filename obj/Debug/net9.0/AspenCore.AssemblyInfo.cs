@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspenCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aecad998302aa19b4c782dda5d3882d61641025")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf6e9587e2a4b088bc770ee2a998c2ee32a6bfcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspenCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspenCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
